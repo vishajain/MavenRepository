@@ -1,8 +1,18 @@
+/**
+ * Info about this package doing something for package-info.java file.
+ */
+/**
+ * 
+ */
+/**
+ * @author Visha
+ *
+ */
 package com.JenkinsBuildProject;
 
-public class secondClass {
+class secondClass {
 
-	public static void main(String[] args) {
+	public static void main(final String[] args) {
 		System.out.println("this is second class");
 	}
 }

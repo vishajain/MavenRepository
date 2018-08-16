@@ -1,8 +1,22 @@
+/**
+ * Info about this package doing something for package-info.java file.
+ */
+/**
+ * 
+ */
+/**
+ * @author Visha
+ *
+ */
+
 package com.JenkinsBuildProject;
 
-public class SimpleJavaClass {
+class SimpleJavaClass {
 
-	public static void main(String[] args) {
+	/**
+	 * Info about this method doing something for package-info.java file.
+	 */
+	public static void main(final String[] args) {
 		System.out.println("Hello world!!");
 	}
 }
